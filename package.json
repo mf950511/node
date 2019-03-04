@@ -1,0 +1,22 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "connect-multiparty": "^2.2.0",
+    "form-data": "^2.3.3",
+    "iconv-lite": "^0.4.24",
+    "koa": "^2.6.1",
+    "koa-body": "^4.0.4",
+    "koa-router": "^7.4.0",
+    "koa-static": "^5.0.0",
+    "request": "^2.88.0",
+    "superagent": "^4.0.0-beta.5"
+  }
+}
